@@ -30,20 +30,19 @@ I am Md. Sameer Shahzada. I have completed my Master of Computer Application (MC
 - [Resume](https://drive.google.com/file/d/1i4dRPFI6jWDYcB8ZmqquJtJniwLaQBOM/view?usp=sharing)
 -->
 <div>
-     <div align="right">
-     <!-- Commit Issues PR etc stats  -->
-      
-      ![Mohd Sameer github stats](https://github-readme-stats.vercel.app/api?username=Sameer-Shahzada&count_private=true&show_icons=true&hide_border=true)
-      <br/>
-     </div>
-     
-     <!--  Top Langs stats   -->
-     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sameer-Shahzada&layout=compact)](https://github.com/Sameer-Shahzada/github-readme-stats)
+<div align="right">
+<!-- Commit Issues PR etc stats  -->   
 
-     <!--    Streak stats   -->
-      <div align = "right">
-     <img  align = "right" src="https://github-readme-streak-stats.herokuapp.com/?user=Sameer-Shahzada&" alt="Sameer Shahzada" />
-      </div>
+![Mohd Sameer github stats](https://github-readme-stats.vercel.app/api?username=Sameer-Shahzada&count_private=true&show_icons=true&hide_border=true)
+ <br/>
+</div>
+     
+<!--  Top Langs stats   -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sameer-Shahzada&layout=compact)](https://github.com/Sameer-Shahzada/github-readme-stats)
+<!--    Streak stats   -->
+<div align = "right">
+ <img  align = "right" src="https://github-readme-streak-stats.herokuapp.com/?user=Sameer-Shahzada&" alt="Sameer Shahzada" />
+ </div>
 </div>
 
 <br/>
@@ -54,8 +53,8 @@ I am Md. Sameer Shahzada. I have completed my Master of Computer Application (MC
 <br/>
 <br/>
 <br/>
-
 <hr/>
+
 <div>
 <!-- Attach GitHub Activity Graph -->
 <details align="center">
