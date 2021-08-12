@@ -11,7 +11,7 @@ I am Md. Sameer Shahzada. I completed my Master of Computer Application (MCA) fr
 <!-- GitHub short Intro -->
 - 👀 I’m interested in Full Stack Development & Software Development.
 - 🌱 I’m currently learning <strong> Full Stack Development </strong>
-- 💞️ I’m looking to collaborate on Full Stack Development projects.
+- 💞️ I’m looking to collaborate on some exciting Full Stack Development projects.
 - 📫 How to reach me 👇🏻
 <!-- Social handles -->
  <a href="https://www.linkedin.com/in/md-sameer-shahzada-105805158/" target="_blank"><img src="https://user-images.githubusercontent.com/57597700/115221409-434f5080-a127-11eb-8605-0de27d8ee0e7.png" width=30 alt="LinkedIn"></a> 
