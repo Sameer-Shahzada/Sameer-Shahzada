@@ -2,7 +2,7 @@
 
 ## About Me ✍
 
-I am Md. Sameer Shahzada. I completed my Master of Computer Application (MCA) from Kamla Nehru Institute of Technology, Sultanpur (U.P) <br/> . I am passionate about learning new technology with a positive attitude.
+I am Md. Sameer Shahzada. I completed my Master of Computer Application (MCA) from <strong>Kamla Nehru Institute of Technology, Sultanpur (U.P).</strong> <br/>  I am passionate about learning new technology with a positive attitude.
 
 
 <img align="left" alt="Image" src="https://user-images.githubusercontent.com/57597700/116680680-964bc200-a9c9-11eb-8883-deeb257fd9de.png" width="250"/>
