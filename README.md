@@ -37,7 +37,16 @@ Resume (https://drive.google.com/file/d/1i4dRPFI6jWDYcB8ZmqquJtJniwLaQBOM/view?u
  
 </div>
    
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sameer-Shahzada&layout=compact)](https://github.com/Sameer-Shahzada/github-readme-stats)
 
+<details align="center">
+  <summary>GitHub Activity Graph 📈</summary>
+<p align="center">
+     
+  [![Mohd Sameer's github activity graph](https://activity-graph.herokuapp.com/graph?username=Sameer-Shahzada&theme=dracula)](https://github.com/Sameer-Shahzada/github-readme-activity-graph)
+     
+</p>
+</details>
 
 
 <!---
