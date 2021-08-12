@@ -105,11 +105,12 @@ As we all know that under engineering, technical skills always provide unique gr
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="180">
 
 ##
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I want to connect with techy people from surrounding us & around the world & work with techy organisation. I am also excited to contribute to the open-source community.
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I want to connect with techy people from around the world & work with techy organisation. I am also excited to contribute to the open-source community.
  
  <!--so if you want to be my friend, feel free to [reach out](https://wa.me/+918433410516) and introduce yourself (don’t just say hi, tell me about yourself")-->
  
  </b> 😊 ❤️</em>
+ 
 <!--
 <div align="center">
 <a href="<div align="center">
@@ -128,19 +129,13 @@ As we all know that under engineering, technical skills always provide unique gr
 <!--
 <p align="center"> 
  <b> Can you break this count?</b><br>
-  <img src="https://profile-counter.glitch.me/AmanKesarwani2202/count.svg" />
+  <img src="https://profile-counter.glitch.me/Sameer-Shahzada/count.svg" />
 </p>
 -->
-
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 
 <a href="https://github.com/Sameer-Shahzada"><img src="https://github.com/simonw/simonw/workflows/Build%20README/badge.svg" align="right" alt="Build README">
-
-
-
--->
-
 
 <!---
 Sameer-Shahzada/Sameer-Shahzada is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
