@@ -57,7 +57,7 @@ As we all know that under engineering, technical skills always provide unique gr
 -->
 
 
-![C](https://img.shields.io/badge/-C-000?style=flat-square&logo=&logoColor=blue)
+![C](https://img.shields.io/badge/-C-000?style=flat-square&logo=C&logoColor=blue)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -65,13 +65,13 @@ As we all know that under engineering, technical skills always provide unique gr
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![Jquery](https://img.shields.io/badge/-Jquery-yellow?style=flat-square&logo=jquery)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![MySQL](https://img.shields.io/badge/-MySQL-white?style=flat-square&logo=mysql)
 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 [![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-[![Editor](https://img.shields.io/badge/Editor-Sublime Text 3-blue?style=flat-square&logo=sublime-text-3&logoColor=white)](https://code.sublimetext.com/)
+[![Editor](https://img.shields.io/badge/Editor-Sublime%20Text%203-FF9800?style=flat-square&logo=sublime-text-3&logoColor=white)](https://code.sublimetext.com/)
 
 
 <!-- ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c) -->
