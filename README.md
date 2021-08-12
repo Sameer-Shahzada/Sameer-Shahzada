@@ -1,4 +1,5 @@
-Hey :wave:,I'm Md. Sameer Shahzada
+## Hey <Techy/>! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I am <a href="https://www.linkedin.com/in/md-sameer-shahzada-105805158/"> Md. Sameer Shahzada</a> 👨‍🎓
+
 
 <img align="left" alt="Image" src="https://user-images.githubusercontent.com/57597700/116680680-964bc200-a9c9-11eb-8883-deeb257fd9de.png" width="250"/>
 
