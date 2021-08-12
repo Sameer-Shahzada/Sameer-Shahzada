@@ -1,8 +1,8 @@
-## Hey Techy! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I am <a href="https://www.linkedin.com/in/md-sameer-shahzada-105805158/"> Md. Sameer Shahzada</a> 👨‍🎓
+## Hey Techy! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I am <a href="https://www.linkedin.com/in/md-sameer-shahzada-105805158/"> Md. Sameer Shahzada</a> 👨‍🎓
 
 ## About Me ✍
 
-I am Md. Sameer Shahzada. I completed my Master of Computer Application (MCA) from <strong>Kamla Nehru Institute of Technology, Sultanpur (U.P).</strong> I am passionate about learning new technology with a positive attitude.
+I am Md. Sameer Shahzada. I have completed my Master of Computer Application (MCA) from <strong>Kamla Nehru Institute of Technology, Sultanpur (U.P).</strong> Now, I'm looking for a job as a Software Developer | Web Developer. I am passionate about learning new technology with a positive attitude.
 
 <!-- Lovely GitHub Image -->
 <img align="left" alt="Image" src="https://user-images.githubusercontent.com/57597700/116680680-964bc200-a9c9-11eb-8883-deeb257fd9de.png" width="250"/>
@@ -105,11 +105,11 @@ As we all know that under engineering, technical skills always provide unique gr
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="180">
 
 ##
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I want to connect with techy people from around the world & work with techy organisation. I am also excited to contribute to the open-source community.
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I want to connect with techy people from around the world & work with techy organisation. I am also excited to contribute to the open-source community.</b> 😊 ❤️</em>
  
  <!--so if you want to be my friend, feel free to [reach out](https://wa.me/+918433410516) and introduce yourself (don’t just say hi, tell me about yourself")-->
  
- </b> 😊 ❤️</em>
+
  
 <!--
 <div align="center">
@@ -126,12 +126,12 @@ As we all know that under engineering, technical skills always provide unique gr
 <br/>  
 -->
 
-
+<!--
 <p align="center"> 
  <b> Can you break this count?</b><br>
   <img src="https://profile-counter.glitch.me/Sameer-Shahzada/count.svg" />
 </p>
-
+-->
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 
