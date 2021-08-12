@@ -62,7 +62,7 @@ As we all know that under engineering, technical skills always provide unique gr
 
 <!-- <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="30"/> -->
 ![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=C&logoColor=white)
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
+![Java](https://img.shields.io/badge/-java-E34A86?style=for-the-badge&logo=java)
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
