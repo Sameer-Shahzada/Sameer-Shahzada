@@ -32,15 +32,17 @@ I am Md. Sameer Shahzada. I have completed my Master of Computer Application (MC
 <div>
      <div align="right">
      <!-- Commit Issues PR etc stats  -->
+      
       ![Mohd Sameer github stats](https://github-readme-stats.vercel.app/api?username=Sameer-Shahzada&count_private=true&show_icons=true&hide_border=true)
+      <br/>
      </div>
-     <div align = "left">
+     
      <!--  Top Langs stats   -->
      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sameer-Shahzada&layout=compact)](https://github.com/Sameer-Shahzada/github-readme-stats)
-     </div>
+
      <!--    Streak stats   -->
       <div align = "right">
-     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sameer-Shahzada&" alt="Sameer Shahzada" />
+     <img  align = "right" src="https://github-readme-streak-stats.herokuapp.com/?user=Sameer-Shahzada&" alt="Sameer Shahzada" />
       </div>
 </div>
 
