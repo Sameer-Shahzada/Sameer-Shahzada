@@ -20,7 +20,7 @@ Resume (https://drive.google.com/file/d/1i4dRPFI6jWDYcB8ZmqquJtJniwLaQBOM/view?u
 
 
     ![Sameer-Shahzada Github status](https://github-readme-stats.vercel.app/api?username=Sameer-Shahzada&count_private=true&show_icons=true&hide_border=true)
-    
+   </br>
 </div>
    
 
