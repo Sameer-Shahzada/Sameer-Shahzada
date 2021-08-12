@@ -1,7 +1,7 @@
-Hey :wave:,I'm @sameer-shahzada
-- 👋 Hi, I’m @Sameer-Shahzada
+Hey :wave:,I'm Md. Sameer Shahzada
+
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning <b>Full Stack Development</b>
+- 🌱 I’m currently learning <strong> Full Stack Development </strong>
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
