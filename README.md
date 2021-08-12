@@ -23,7 +23,10 @@ I am Md. Sameer Shahzada. I completed my Master of Computer Application (MCA) fr
 <br/>
 
 <!-- Attach Resume -->
+<!--
 - [Resume](https://drive.google.com/file/d/1i4dRPFI6jWDYcB8ZmqquJtJniwLaQBOM/view?usp=sharing)
+-->
+
 <div align="center">
 
 <!-- Commit Issues PR etc stats  -->
@@ -54,7 +57,7 @@ As we all know that under engineering, technical skills always provide unique gr
 -->
 
 
-![C](https://img.shields.io/badge/-C-000?&logo=C)
+![C](https://img.shields.io/badge/-C-000?style=flat-square&logo=C&logoColor=white)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
