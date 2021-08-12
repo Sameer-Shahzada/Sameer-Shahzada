@@ -40,6 +40,8 @@ I am Md. Sameer Shahzada. I have completed my Master of Computer Application (MC
 <!--  Top Langs stats   -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sameer-Shahzada&layout=compact)](https://github.com/Sameer-Shahzada/github-readme-stats)
 
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Sameer-Shahzada&" alt="Sameer Shahzada" /></p>
+
 <!-- Attach GitHub Activity Graph -->
 <details align="center">
   <summary>GitHub Activity Graph 📈</summary>
@@ -59,54 +61,82 @@ I am Md. Sameer Shahzada. I have completed my Master of Computer Application (MC
 As we all know that under engineering, technical skills always provide unique gratitude and passion for any technical guy. So these technical skills of the engineer always help him, in the same way at all the time.
 -->
 
-
+<!-- <h2><b>👩‍💻 Languages</b></h2> -->
+<p>
 <!-- <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="30"/> -->
 ![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=C&logoColor=white)
 ![Java](https://img.shields.io/badge/-java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 <!-- C++ <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="30"/> -->
-![Java](https://img.shields.io/badge/-java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+<p/>
 
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Saas](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap%204-563D7C?style=flat-square&logo=bootstrap)
-![Jquery](https://img.shields.io/badge/-Jquery-yellow?style=flat-square&logo=jquery)
-![MySQL](https://img.shields.io/badge/-MySQL-white?style=flat-square&logo=mysql)
+![Bootstrap](https://img.shields.io/badge/Bootstrap%204-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Jquery](https://img.shields.io/badge/-Jquery-yellow?style=for-the-badge&logo=jquery)
+![MySQL](https://img.shields.io/badge/-MySQL-white?style=for-the-badge&logo=mysql)
 
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
 
-[![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-[![Editor](https://img.shields.io/badge/Editor-Sublime%20Text%203-FF9800?style=flat-square&logo=sublimetext&logoColor=white)](https://code.sublimetext.com/)
+[![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![Editor](https://img.shields.io/badge/Editor-Sublime%20Text%203-FF9800?style=for-the-badge&logo=sublimetext&logoColor=white)](https://code.sublimetext.com/)
 
-![Heroku](https://img.shields.io/badge/-Heroku-400090?style=flat-square&logo=heroku)
-![Netlify](https://img.shields.io/badge/-Netlify-white?style=flat-square&logo=netlify)
+![Heroku](https://img.shields.io/badge/-Heroku-400090?style=for-the-badge&logo=heroku)
+![Netlify](https://img.shields.io/badge/-Netlify-white?style=for-the-badge&logo=netlify)
 
 
 <!-- ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c) -->
-
 <!--  
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Data Science](https://img.shields.io/badge/-Data%20Science-brightgreen)
 [![FastAPI](https://img.shields.io/badge/Python_framework-FastAPI-teal?style=flat-square&logo=python&logoColor=white)](https://fastapi.tiangolo.com/)
-
-
-
 [![Terraform](https://img.shields.io/badge/Learning-Terraform-623ce4?style=flat-square&logo=terraform&logoColor=white)](https://www.terraform.io/)
 [![AWS](https://img.shields.io/badge/Learning-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)](https://github.com/br3ndonland/awsdev)
-
-
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
-
  ![Slack](https://img.shields.io/badge/-Slack-E01563?style=flat-square&logo=Slack&logoColor=white)
  [![Pycharm](https://img.shields.io/badge/IDE-PyCharm-yellow?style=flat-square&logo=JetBrains)](https://www.jetbrains.com/pycharm/)
  [![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=Flask&logoColor=ffffff)](https://flask.palletsprojects.com/)
  [![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=ffffff)](https://kubernetes.io/)
 -->
 
+<!-- 
+ 
+<h2><b>💻 Web Tech Stack</b></h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="30"/>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" height="30"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="30"/>
+ 
+</p>
+
+
+<br>
+
+<h2><b>📱 App Dvelopment</b></h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="30"/>
+  <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" height="30"/>
+</p>
+
+<br>
+
+<h2><b>💻 Desktop Application</b></h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" height="30"/>
+</p>
+
+
+-->
 
 <!--footer-->
   
