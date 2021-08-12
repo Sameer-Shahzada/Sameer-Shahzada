@@ -1,5 +1,9 @@
 Hey :wave:,I'm Md. Sameer Shahzada
 
+<img align="left" alt="Image" src="https://user-images.githubusercontent.com/57597700/116680680-964bc200-a9c9-11eb-8883-deeb257fd9de.png" width="250"/>
+
+<br/>
+
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning <strong> Full Stack Development </strong>
 - 💞️ I’m looking to collaborate on ...
