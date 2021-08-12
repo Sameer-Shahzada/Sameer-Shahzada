@@ -42,7 +42,6 @@ I am Md. Sameer Shahzada. I have completed my Master of Computer Application (MC
 <!--    Streak stats   -->
 <div align = "right">
  <img  align = "right" src="https://github-readme-streak-stats.herokuapp.com/?user=Sameer-Shahzada&" alt="Sameer Shahzada" />
- <
  </div>
 </div>
 
