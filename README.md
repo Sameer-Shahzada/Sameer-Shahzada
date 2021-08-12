@@ -65,7 +65,7 @@ As we all know that under engineering, technical skills always provide unique gr
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![Jquery](https://img.shields.io/badge/-Jquery-yellow?style=flat-square&logo=jquery)
-![MySQL](https://img.shields.io/badge/-MySQL-white?style=flat-square&logo=mysql)
+![MySQL](https://img.shields.io/badge/-MySQL-royalblue?style=flat-square&logo=mysql)
 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
