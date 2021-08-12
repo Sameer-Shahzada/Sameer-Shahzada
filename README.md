@@ -47,9 +47,13 @@ I am Md. Sameer Shahzada. I have completed my Master of Computer Application (MC
 
 <br/>
 <br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
+<hr/>
 <div>
-
 <!-- Attach GitHub Activity Graph -->
 <details align="center">
   <summary>GitHub Activity Graph 📈</summary>
