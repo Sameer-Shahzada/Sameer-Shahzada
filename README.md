@@ -1,5 +1,8 @@
 ## Hey Techy! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I am <a href="https://www.linkedin.com/in/md-sameer-shahzada-105805158/"> Md. Sameer Shahzada</a> 👨‍🎓
 
+<p align= "center"><img src="https://komarev.com/ghpvc/?username=Sameer-Shahzada5&label=Profile%20views&color=0e75b6&style=flat" alt="Sameer Shahzada" /></p>
+
+
 ## About Me ✍
 
 I am Md. Sameer Shahzada. I have completed my Master of Computer Application (MCA) from <strong>Kamla Nehru Institute of Technology, Sultanpur (U.P).</strong> Now, I'm looking for a job as a Software Developer | Web Developer. I am passionate about learning new technology with a positive attitude.
