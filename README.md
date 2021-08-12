@@ -40,10 +40,10 @@ I am Md. Sameer Shahzada. I have completed my Master of Computer Application (MC
 <!--  Top Langs stats   -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sameer-Shahzada&layout=compact)](https://github.com/Sameer-Shahzada/github-readme-stats)
 
-<!-- <div>
+ <div align = "right">
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Sameer-Shahzada&" alt="Sameer Shahzada" />
 </div>
- -->
+
 
 
 
