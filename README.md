@@ -29,8 +29,8 @@ I am Md. Sameer Shahzada. I have completed my Master of Computer Application (MC
 <!--
 - [Resume](https://drive.google.com/file/d/1i4dRPFI6jWDYcB8ZmqquJtJniwLaQBOM/view?usp=sharing)
 -->
-
-<div align="center">
+<div>
+<div align="right">
 
 <!-- Commit Issues PR etc stats  -->
  ![Mohd Sameer github stats](https://github-readme-stats.vercel.app/api?username=Sameer-Shahzada&count_private=true&show_icons=true&hide_border=true)
@@ -43,6 +43,7 @@ I am Md. Sameer Shahzada. I have completed my Master of Computer Application (MC
  <div align = "right">
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Sameer-Shahzada&" alt="Sameer Shahzada" />
 </div>
+ </div>
 
 
 
