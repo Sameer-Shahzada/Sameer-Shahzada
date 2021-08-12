@@ -29,7 +29,7 @@ I am Md. Sameer Shahzada. I have completed my Master of Computer Application (MC
 <!--
 - [Resume](https://drive.google.com/file/d/1i4dRPFI6jWDYcB8ZmqquJtJniwLaQBOM/view?usp=sharing)
 -->
-<div style="margin-bottom:500px">
+<div style="margin-bottom:700px">
 <div align="right">
 
 <!-- Commit Issues PR etc stats  -->
