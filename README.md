@@ -178,12 +178,12 @@ As we all know that under engineering, technical skills always provide unique gr
 <br/>  
 -->
 
-<!--
+
 <p align="center"> 
  <b> Can you break this count?</b><br>
   <img src="https://profile-counter.glitch.me/Sameer-Shahzada/count.svg" />
 </p>
--->
+
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 
