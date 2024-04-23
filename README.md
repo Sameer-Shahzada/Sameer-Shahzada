@@ -60,8 +60,8 @@ I'm a detail-oriented Front-End Developer with +2.5 years of hands-on experience
 <details align="center">
   <summary>GitHub Activity Graph 📈</summary>
 <p align="center">
-     
-  [![Mohd Sameer's github activity graph](https://activity-graph.herokuapp.com/graph?username=Sameer-Shahzada&theme=dracula)](https://github.com/Sameer-Shahzada/github-readme-activity-graph)
+    
+  [![Mohd Sameer's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sameer-Shahzada&theme=dracula)](https://github.com/Sameer-Shahzada/github-readme-activity-graph)
      
 </p>
 </details>
