@@ -4,8 +4,7 @@
 
 
 ## About Me ✍
-
-I am Md. Sameer Shahzada. I have completed my Master of Computer Application (MCA) from <strong>Kamla Nehru Institute of Technology, Sultanpur (U.P).</strong> Now, I'm looking for a job as a Software Developer | Web Developer. I am passionate about learning new technology with a positive attitude.
+I'm a detail-oriented Front-End Developer with +2.5 years of hands-on experience at (Mobfountain Media) with a Master's of Computer Applications (MCA) from Kamla Nehru Institute of Technology, Sultanpur (KNIT). I have a strong foundation in computer science and software engineering. I have been instrumental in delivering robust and efficient solutions for various clients.
 
 <!-- Lovely GitHub Image -->
 <img align="left" alt="Image" src="https://user-images.githubusercontent.com/57597700/116680680-964bc200-a9c9-11eb-8883-deeb257fd9de.png" width="250"/>
@@ -13,7 +12,7 @@ I am Md. Sameer Shahzada. I have completed my Master of Computer Application (MC
 
 <!-- GitHub short Intro -->
 - 👀 I’m interested in Full Stack Development & Software Development.
-- 🌱 I’m currently learning <strong> Full Stack Development </strong>
+- 🌱 I’m currently learning <strong> Next.js Full Stack Development </strong>
 - 💞️ I’m looking to collaborate on some exciting Full Stack Development projects.
 - 📫 How to reach me 👇🏻
 <!-- Social handles -->
@@ -21,7 +20,7 @@ I am Md. Sameer Shahzada. I have completed my Master of Computer Application (MC
 <a href="https://twitter.com/MdSameerShahza1" target="_blank"><img src="https://user-images.githubusercontent.com/57597700/115221648-86112880-a127-11eb-8298-18349120b44b.png" width=30 alt="Twitter"></a> 
 <a href="https://www.instagram.com/shahzada.05/?hl=en" target="_blank"><img src="https://user-images.githubusercontent.com/57597700/115221558-6ed23b00-a127-11eb-90cf-c330432b48e3.png" width=30 alt="Instagram"></a> 
 <a href="https://github.com/Sameer-Shahzada" target="_blank"><img src="https://user-images.githubusercontent.com/57597700/115221750-9e814300-a127-11eb-87ad-9829817b7a36.png" width=30 alt = "GitHub"></a>
-<a href="mailto: mohd.sameershahzada@gmail.com" target = "_blank"><img src="https://user-images.githubusercontent.com/57597700/115959649-e559a900-a52a-11eb-9cf5-3659573b814b.png" width=30 alt="Gmail"></a>
+<a href="mailto: sde.mohdsameer@gmail.com" target = "_blank"><img src="https://user-images.githubusercontent.com/57597700/115959649-e559a900-a52a-11eb-9cf5-3659573b814b.png" width=30 alt="Gmail"></a>
 
 <br/>
 
