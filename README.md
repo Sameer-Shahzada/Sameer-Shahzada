@@ -80,16 +80,22 @@ As we all know that under engineering, technical skills always provide unique gr
 <!-- C++ <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="30"/> -->
 <!-- <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="30"/> -->
 
-![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=C&logoColor=white)
-![Java](https://img.shields.io/badge/-java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+<!-- ![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=C&logoColor=white) -->
+<!-- ![Java](https://img.shields.io/badge/-java-ED8B00?style=for-the-badge&logo=java&logoColor=white) -->
+<!-- ![Saas](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white) -->
+<!-- ![Jquery](https://img.shields.io/badge/-Jquery-yellow?style=for-the-badge&logo=jquery) -->
+<!-- ![MySQL](https://img.shields.io/badge/-MySQL-white?style=for-the-badge&logo=mysql) -->
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Saas](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+[![Bootstrap 5](https://img.shields.io/badge/Bootstrap%205-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-v3-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![Material-UI v5](https://img.shields.io/badge/Material--UI-v5-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)](https://mui.com/)
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Bootstrap](https://img.shields.io/badge/Bootstrap%204-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Jquery](https://img.shields.io/badge/-Jquery-yellow?style=for-the-badge&logo=jquery)
-![MySQL](https://img.shields.io/badge/-MySQL-white?style=for-the-badge&logo=mysql)
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
+[![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org/)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
 
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
