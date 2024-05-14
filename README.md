@@ -91,6 +91,7 @@ As we all know that under engineering, technical skills always provide unique gr
 [![Bootstrap 5](https://img.shields.io/badge/Bootstrap%205-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-v3-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![Material-UI v5](https://img.shields.io/badge/Material--UI-v5-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)](https://mui.com/)
+[![Mantine UI](https://img.shields.io/badge/Mantine_UI-Latest-2E2E2E?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKBAMAAAB/HNKOAAAAElBMVEVdXV0AAAAAAACqqqq3t7fMzMz///9Yc2P9AAAAAXRSTlMAQObYZgAAAB9JREFUCB1jYKAcOLYMFEDoAJpBIc5MAlWq0AAAwCvUT0IWyYAAAAASUVORK5CYII=)](https://mantine.dev/)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
