@@ -106,6 +106,7 @@ As we all know that under engineering, technical skills always provide unique gr
 
 ![Heroku](https://img.shields.io/badge/-Heroku-400090?style=for-the-badge&logo=heroku)
 ![Netlify](https://img.shields.io/badge/-Netlify-white?style=for-the-badge&logo=netlify)
+![Vercel](https://img.shields.io/badge/-Vercel-black?style=for-the-badge&logo=vercel)
 
 
 <!-- ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c) -->
