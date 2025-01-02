@@ -4,7 +4,7 @@
 
 
 ## About Me ✍
-I'm a detail-oriented Front-End Developer with +3 years of hands-on experience at (Mobfountain Media) with a Master's of Computer Applications (MCA) from Kamla Nehru Institute of Technology, Sultanpur (KNIT). I have a strong foundation in computer science and software engineering. I have been instrumental in delivering robust and efficient solutions for various clients.
+I'm a detail-oriented Front-End Developer with +3.6 years of hands-on experience at (Mobfountain Media) with a Master's of Computer Applications (MCA) from Kamla Nehru Institute of Technology, Sultanpur (KNIT). I have a strong foundation in computer science and software engineering. I have been instrumental in delivering robust and efficient solutions for various clients.
 
 <!-- Lovely GitHub Image -->
 <img align="left" alt="Image" src="https://user-images.githubusercontent.com/57597700/116680680-964bc200-a9c9-11eb-8883-deeb257fd9de.png" width="250"/>
